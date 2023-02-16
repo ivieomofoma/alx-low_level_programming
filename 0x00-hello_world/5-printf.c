@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - Entry point
- *
+ * main - print "with proper grammer, but the outcome is 
+ * a piece of art," followed by a new line
  * printf: This function display the specified string in the output
- * Return: returns 0 (success)
+ * Return: Always 0.
  */
 
 int main(void)
